@@ -1,0 +1,37 @@
+{
+
+ "job":[
+    { 
+        "jobTitle":"Full Stack Developer",
+         "location":"Delhi",
+         "description":"companies looking for some crazy people,we are looking for challenge accepters who move with 'I Can Do' attitude.Quick decision makers, live with the passion of work,never feeling and saying I Am Tired.",
+         "salary":"30K-40K"
+
+         },
+    { 
+        "jobTitle":"Front End Developer",
+         "location":"Pune",
+         "description":"companies looking for some crazy people,we are looking for challenge accepters who move with 'I Can Do' attitude.Quick decision makers, live with the passion of work,never feeling and saying I Am Tired.",
+         "salary":"15K-30K"
+
+         },
+    { 
+        "jobTitle":"Back End Developer",
+         "location":"Mumbai",
+         "description":"companies looking for some crazy people,we are looking for challenge accepters who move with 'I Can Do' attitude.Quick decision makers, live with the passion of work,never feeling and saying I Am Tired.",
+         "salary":"20K-30K"
+         },
+         { 
+            "jobTitle":"HR",
+             "location":"Chandigarh,india",
+             "description":"We are looking for a talented User Experience Designer to create amazing user experiences.",
+             "salary":"20K-30K"
+             },
+             { 
+                "jobTitle":"SEO",
+                 "location":"Noida,India",
+                 "description":"Experienced in Google ad-words,SEO,SMO,SEM(on page & off page)PPC,Digital Marketing campaigns,Marketing database,social media and display advertising campaigns.",
+                 "salary":"15K"
+                 }
+  ]
+}
